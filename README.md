@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A Chat_App with Flutter and Firebase Authentication
 
 ## Getting Started
 
